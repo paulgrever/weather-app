@@ -8,3 +8,10 @@ The current weather is then displayed openly for the city. The next future days 
 
 
 ![Weather-App-Preview](https://github.com/user-attachments/assets/ecd063d1-6354-4a32-8643-095c35ae35ac)
+
+
+## Dependencies 
+
+To run this app you will need to register and sign up for a [OpenWeather One Call 3.0 API key](https://openweathermap.org/api/one-call-3)
+
+You will then need to add that key to your `local.properties` file with the name `OPEN_WEATHER_API_KEY`
